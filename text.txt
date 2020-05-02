@@ -1,0 +1,1 @@
+This is just testing whether the relevant respository and directories work during the setup for Git.
